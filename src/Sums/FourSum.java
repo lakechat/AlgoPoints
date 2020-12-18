@@ -51,9 +51,12 @@ public class FourSum {
 		}
 		return res;
 	}
+<<<<<<< HEAD
 	
 	public List<List<Integer>> fourSum2(int[] nums, int target){
 		
 	}
+=======
+>>>>>>> commit changes
 
 }
